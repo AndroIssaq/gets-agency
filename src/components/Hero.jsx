@@ -1,5 +1,5 @@
 import React from 'react'
-import video from '../assets/Sequence 01.mp4'
+import video from '../assets/Sequence 01 (1).mp4'
 const Hero = () => {
   return (
     <div className=' w-full hero'>
