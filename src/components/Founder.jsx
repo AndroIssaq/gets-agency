@@ -24,7 +24,7 @@ useEffect(() => {
 }, [])
 
   return (
-    <div className='lg:mt-[200px] md:mt-[250px] mt-[100px] '>
+    <div className='lg:mt-[200px] md:mt-[250px] mt-[150px] '>
       <div className="container">
         <div className="content flex items-center justify-center lg:flex-row md:flex-col flex-col gap-[40px] h-[100vh]">
           <div className="desc flex-1 flex flex-col items-start justify-start h-[100vh]">

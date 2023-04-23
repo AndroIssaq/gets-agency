@@ -20,7 +20,7 @@ const Navbar = () => {
    
     
   return (
-    <div className={` lg:fixed md:fixed relative w-full h-[90px] top-0 z-40 `}>
+    <div className={` lg:fixed md:fixed relative w-full h-[70px] top-0 z-40 `}>
     <nav className={ `${color?'set-color': 'bg-transparent'}  `} >
         <div className="container">
             <div className="content flex  w-full items-center justify-between py-[10px] ">

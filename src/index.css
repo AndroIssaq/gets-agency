@@ -13,14 +13,14 @@ body{
   background: #171717;
 }
 ::-webkit-scrollbar{
-  width: 50.px;
+  width: 5px;
 }
 ::-webkit-scrollbar-track{
   background: #56214d00;
 }
 ::-webkit-scrollbar-thumb{
   background: #ffee0091;
-  width: 10px;
+  width: 5px;
   border-radius: 5px;
   transition: .3s;
 }
